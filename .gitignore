@@ -1,0 +1,5 @@
+/solution/rust/**/target
+.mypy_cache
+__pycache__
+.direnv
+target
